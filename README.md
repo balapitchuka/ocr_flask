@@ -1,3 +1,3 @@
-# Flask Apps
+# Flask App 
 
-1. ocr(Optical Character Recognition) using flask.
+* OCR(Optical Character Recognition) using flask.
